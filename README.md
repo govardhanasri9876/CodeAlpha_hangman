@@ -1,0 +1,1 @@
+🎯 How to Play A word will be chosen randomly You will be given a hint Guess one letter at a time You have 6 chances to guess wrong The hangman figure will be drawn step by step Guess the word before the figure is completed
